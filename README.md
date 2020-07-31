@@ -1,7 +1,7 @@
 # datadig
 datadig+mechinelearn
-ch1:
-    介绍数据挖掘
+ch1:\n
+    介绍数据挖掘\n
 ch2:
     介绍了邻近算法并应用在数据挖掘上
 ch3:
